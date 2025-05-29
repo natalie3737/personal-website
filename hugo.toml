@@ -1,8 +1,35 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Natalie Hong'
 theme = 'PaperMod'
 
 [caches]
     [caches.images]
         dir = ':cacheDir/images'
+
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+
+[[menu.main]]
+name = "About"
+url = "#about-me"
+weight = 1
+
+[[menu.main]]
+name = "Resume"
+url = "#-resume"
+weight = 2
+
+[[menu.main]]
+name = "Experience"
+url = "#-experience"
+weight = 3
+
+[[menu.main]]
+name = "Links"
+url = "#-links"
+weight = 4
