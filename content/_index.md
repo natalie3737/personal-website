@@ -27,7 +27,7 @@ Outside of school I love to dance, travel, and watch F1 with my family. Feel fre
 View or download my full Resume: 
 
 <p align="center">
-  <a href="https://natalie3737.github.io/personal-website/files/resume.jpg" 
+  <a href="https://natalie3737.github.io/personal-website/files/resume.pdf" 
       target="_blank" style="
       display: inline-block;
       background-color: grey;
