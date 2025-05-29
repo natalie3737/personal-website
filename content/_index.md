@@ -9,7 +9,7 @@ draft: false
 My name is Natalie Hong and welcome to my personal webiste! I'm currently a student at **[Northwestern University](https://www.northwestern.edu/)**, studying *Computer Science and Economics*. 
 
 <p align="center">
-  <img src="{{ "/images/profile.jpg" | absURL }}" alt="My Profile Picture" width="200" />
+  <img src="https://natalie3737.github.io/personal-website/images/profile.jpg" alt="My Profile Picture" width="200" />
 </p>
 
 ---
@@ -27,7 +27,8 @@ Outside of school I love to dance, travel, and watch F1 with my family. Feel fre
 View or download my full Resume: 
 
 <p align="center">
-  <a href="{{ "/files/resume.pdf" | absURL }}" target="_blank" style="
+  <a href="https://natalie3737.github.io/personal-website/files/resume.jpg" 
+      target="_blank" style="
       display: inline-block;
       background-color: grey;
       color: white;
